@@ -1,3 +1,5 @@
+//Fazil Basri (1908107010032)
+//komputasi numerik B (2020)
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
